@@ -3,6 +3,7 @@
 ## 官方文件
 
 * 英文：[https://angular.io/docs](https://angular.io/docs)
+* 簡中：[https://angular.cn/docs](https://angular.cn/docs)
 
 ## 線上課程
 
