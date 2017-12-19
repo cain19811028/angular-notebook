@@ -9,8 +9,7 @@
 
 已服用：
 
-* Code School - Shaping Up With AngularJS：
-  [https://www.codeschool.com/courses/shaping-up-with-angularjs](https://www.codeschool.com/courses/shaping-up-with-angularjs)
+* Code School - [Shaping Up With AngularJS](https://www.codeschool.com/courses/shaping-up-with-angularjs)
 
 ## 書籍
 
