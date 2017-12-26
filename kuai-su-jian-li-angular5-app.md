@@ -13,7 +13,7 @@
 
 `ng new angular5-hello-world-app`
 
-### \#\#\# Step 4：啟動服務
+### Step 4：啟動服務
 
 `cd angular5-hello-world-app`
 
