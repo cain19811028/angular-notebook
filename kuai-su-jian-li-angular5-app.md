@@ -1,4 +1,4 @@
-# 測試 angular5 快速建立簡易 app
+# 測試 angular5, angular6 快速建立簡易 app
 
 ### Step 1：安裝 Node.js
 
@@ -11,11 +11,11 @@
 
 ### Step 3：建立一個新專案
 
-`ng new angular5-hello-world-app`
+`ng new angular-hello-world-app`
 
 ### Step 4：啟動服務
 
-`cd angular5-hello-world-app`
+`cd angular-hello-world-app`
 
 `ng serve --open`
 
